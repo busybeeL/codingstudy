@@ -1,0 +1,7 @@
+8) Sentence Capitalisation
+Write a function that accepts a string. The function should capitalise the first letter of each word in the string and return the result.
+
+Examples:
+capitalise(‘a short sentence’) —> ‘A Short Sentence’
+capitalise(‘a lazy fox’) —> ‘A Lazy Fox’
+capitalise(‘look, it is working!’) —> ‘Look, It Is Working!’
