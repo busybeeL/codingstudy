@@ -1,0 +1,10 @@
+13) Pig Latin
+
+Pig latin is a way of altering English words. 
+1. If a word begins with a consonant, take the first consonant or a consonant cluster, 
+move it to the end if the word, and add ‘ay’ to it.
+2. If a word begins with a vowel, just add ‘way’ at the end. 
+
+pigLatin(‘glove’) // oveglay
+pigLatin(‘algorithm’) // algorithmay 
+pigLatin(‘eight’) // eightway

@@ -1,0 +1,4 @@
+12) Flatten a nested array. 
+
+steamroller([1, [2], [3, [[4]]]]);
+// [1, 2, 3, 4]
